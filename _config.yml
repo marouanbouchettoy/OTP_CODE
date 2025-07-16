@@ -1,0 +1,8 @@
+title: Your Site Title
+description: A brief description of your site
+baseurl: "/OTP_CODE" # Set to "/repository-name" if hosted at github.com/username/repository-name
+url: "https://marouanbouchettoy.github.io" # Your GitHub Pages URL
+theme: minima # Or another Jekyll theme compatible with GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
